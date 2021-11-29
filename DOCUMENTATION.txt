@@ -1,10 +1,8 @@
-ITOAGNSATI (I.Couldn't.Think.Of.A.Good.Name.So.Acronym.It.Is) pronounced ee-toe-ag-sat-ee is an incredibly
-simple programming language, with the first version being done in a single night on 11/18/2021.
+Here are some example programs.
 
-
-|-An example Hello World program-|
-|const:a:"Hello World"           |
-|print:a                         |
+|-Hello World-|
+const:a:"Hello World"
+print:a
 
 |-Command-|-Description----------------------------------------------------------------|-Syntax---------|
 |const    |Declares an uneditable variable.                                            |const:a:10      |
