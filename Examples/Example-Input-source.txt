@@ -1,0 +1,6 @@
+var:Input:"STRING".to_owned()
+input:Input
+parse:Input:Input
+print:Input
+
+#This script takes any input then parses it and prints it.
